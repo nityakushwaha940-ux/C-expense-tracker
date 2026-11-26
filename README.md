@@ -1,4 +1,3 @@
-# C-expense-tracker
 # Personal Expense & Budget Tracker in C
 
 A menu-driven command-line application built in C to record, categorize, search, delete, and analyze daily expenses against a target budget.
